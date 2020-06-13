@@ -12,7 +12,7 @@ html {
 
 body {
   /* background: url(fondo2.png); */
-  background: url(/site/img/ocean.jpg);
+  background: url(/img/ocean.jpg);
   margin: 1.2vh 2.5vw 3vh 2.5vw;
   line-height: 1.4;
 }
